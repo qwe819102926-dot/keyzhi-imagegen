@@ -1,0 +1,19 @@
+# Credentials and local settings
+settings.json
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Generated images and local output
+output/
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.webp
