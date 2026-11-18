@@ -1,7 +1,0 @@
-interface:
-  display_name: "Key智API 生图"
-  short_description: "通过 Key智API 生成和编辑图片"
-  default_prompt: "Use $keyzhi-imagegen to generate a clean product image of an apple."
-
-policy:
-  allow_implicit_invocation: true
